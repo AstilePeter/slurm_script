@@ -1,5 +1,5 @@
 # SLURM SCRIPT
-This repository is for installing slurm in master and slave computer. For the authentication purpose munge need to be installed on both the computers prior to slurm installation. In this repository there is information about
+This repository is for installing slurm in master and slave computer. For the authentication purpose munge need to be installed on both the computers prior to slurm installation. In this repository we collect manuals for testing performance of slurm in HPC
 
 - How to create slurm and munge users with home directory and same uid and gid
 
