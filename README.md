@@ -1,3 +1,14 @@
+# OVERVIEW
+This repository is for installing slurm in master and slave computer. For the authentication purpose munge need to be installed on both the computers prior to slurm installation. In this repository there is information about
+-How to create slurm and munge users with home directory and same uid and gid
+-Installing munge and checking whether the munge is encrypted and decrypted
+-Installing slurm on both the computers
+-Creating and allowing required permission for files that is needed in the configuration file
+-Creating configuration file on both the computers
+-On the master node creating configuartion file for the slurmctld host and databse
+-Enabling and starting the services
+-on the slave node creating configuartion file for the slurmd
+
 # SLURM INSTALLATION
 First we need to install slurm and munge on master computers
 
