@@ -279,4 +279,8 @@ if the nodes ever go down use the command given below
 ```
 sudo scontrol update nodename="astile-desktop" state=idle 
 ```
+To install stress job
+```
+sudo apt install stress
+```
 
