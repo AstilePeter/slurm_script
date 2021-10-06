@@ -1,3 +1,9 @@
+# SLURM
+
+The slurm is an open source job scheduling tools that can be used linux based clusters. with the help of slurm we can assing users to the compute nodes and aslo manage the queues of the pending work.
+
+![image](https://user-images.githubusercontent.com/91607316/136197705-6324fc73-c460-46aa-8d6d-f747dbc7762f.png)
+
 # SLURM_INSTALLATION
 First we need to install slurm and munge on master computers
 
